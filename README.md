@@ -1,4 +1,4 @@
-Motivation
+**Motivation**
 This Project looks at Covid Data for European Countries. An additional feature , that this project will have in our models is whether a Radical Right Party is in Power for European countries.
 
 The idea for this project comes from a paper called "Victims of the Pandemic? European Far-Right Parties and COVID-19" by Cas Mudde and Jakub Wondreys. In this paper, they dispute that countires with Radical Right Parties in Power, have handled the pandemic worse than other parties.
