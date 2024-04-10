@@ -33,6 +33,6 @@ The following countries will be studied:
 
 
 
-Citations:/
+Citations:
 
-[1] https://doi.org/10.1017%2Fnps.2020.93
+[1] Wondreys, J., & Mudde, C. (2022). Victims of the Pandemic? European Far-Right Parties and COVID-19. Nationalities Papers, 50(1), 86–103. doi:10.1017/nps.2020.93
