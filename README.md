@@ -30,15 +30,17 @@ The following countries will be studied:
 - Slovenia
 - Hungary
 - Poland
-
 Far Right in Coalition:
--Bulgaria
--Estonia
--Slovakia
--Slovenia
+
+- Bulgaria
+- Estonia
+- Slovakia
+- Slovenia
+
 Far Right in Power:
--Hungary
--Poland
+
+- Hungary
+- Poland
 
 Citations:
 
